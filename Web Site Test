@@ -1,1 +1,8 @@
-# JUnit_Project
+This Project is software testing on n11.com with this steps;
+- Open n11.com on Firefox Web Browser
+- Login to Username and Password
+- Search to “Samsung” and go to second page
+- Third product add to Favorite 
+- Then go to My Account and click to My Favorites link
+- Delete last added Favorite product
+- Finally close to Web Browser
